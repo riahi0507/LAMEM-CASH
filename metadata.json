@@ -1,0 +1,6 @@
+{
+  "name": "LAMEM Cash",
+  "description": "Une application de gestion financière simple pour suivre les flux de trésorerie (Cash IN et Cash OUT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
